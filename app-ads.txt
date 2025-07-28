@@ -1,0 +1,2 @@
+# app-ads.txt for Hip-Hop-Bro Tic-Tac-Toe Game
+google.com, pub-6554182465135254, DIRECT, f08c47fec0942fa0
